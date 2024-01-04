@@ -1,7 +1,7 @@
 ### PowerBi Practica-Dax; Número Uno1
 Este proyecto
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTu88uoTfB3ZCuBpGebLv7m4uDUFRHrqePr4Q&usqp=CAU)
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxKRsFbxk1CKo5g9kE7EhC0z1BN3wTKEvzA&usqp=CAU)
 
 ### Recursos
 ###### Origen.csv
