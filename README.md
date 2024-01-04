@@ -13,4 +13,8 @@ Recurso de diseño
 
 ![](https://img.shields.io/github/stars/pandao/editor.md.svg) ![](https://img.shields.io/github/forks/pandao/editor.md.svg) ![](https://img.shields.io/github/tag/pandao/editor.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 
+
+![papper](https://github.com/JhonnFy/PowerBi-DAX-1/assets/97255802/5806c059-9e46-46c7-b4b7-ae71be1b43c2)
+
+
 ###End
