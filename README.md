@@ -1,6 +1,4 @@
-### PowerBi Practica-Dax; Número Uno1
-Este proyecto
-
+### Dax; Practica1
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcxKRsFbxk1CKo5g9kE7EhC0z1BN3wTKEvzA&usqp=CAU)
 
 ### Recursos
