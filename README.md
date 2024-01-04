@@ -15,6 +15,3 @@ Recurso de diseño
 
 
 ![papper](https://github.com/JhonnFy/PowerBi-DAX-1/assets/97255802/5806c059-9e46-46c7-b4b7-ae71be1b43c2)
-
-
-###End
